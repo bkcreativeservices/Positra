@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+@media screen and (max-width: 1199px) {
+
+
+}
+
+@media screen and (max-width: 991px) {
+
+
+}
+
+@media screen and (max-width: 767px) {
+    .top-header h4 {
+        margin: 0px;
+        display: block;
+        text-align: center;
+    }
+    .social-media {
+        margin: 10px 0;
+        padding: 0px;
+        text-align: center !important;
+    }
+.navbar-toggler-icon {
+    font-size: 40px;
+    margin: 0px;
+    position: relative;
+    top: 10px;
+}
+.navbar-brand {
+    margin: 0;
+    padding: 10px 10px;
+}
+.carousel-item {
+    min-height: 300px;
+}
+.custome-banner .carousel-caption h1 span {
+    font-size: 40px;
+}
+.custome-banner .carousel-caption h1 {
+    font-size: 30px;
+}
+.main-services {
+    margin: 10px 0;
+}
+.heading {
+    margin: 20px 0;
+}
+.why-choose, .product-area {
+    margin-top: 80px;
+}
+.filter-button {
+    margin-bottom: 10px;
+}
+
+footer.custome .col-sm-4:nth-child(2) {
+    padding: 0px 15px 20px;
+}
+footer .social-media {text-align: left !important;}
+.copyright p {
+    margin-bottom: 0px;
+    padding: 0 15px;
+}
+.text {
+    padding: 0 30px;
+}
+.navbar-nav {
+    background: #000080;
+    padding: 30px 0;
+}
+.custome-nav .navbar-nav .nav-link {
+    padding: 10px 20px;
+    color: #FFF;
+}
+.custome-nav .navbar-nav .nav-link.current {
+    color: #FFF;
+}
+.page-title-default .page-title {
+    font-size: 36px;
+}
+.hulf-set li {
+    width: auto;
+    float: none;
+}
+.my-style figure {
+    float: none !important;
+    display: block;
+    text-align: left;
+    padding: 0px !important;
+}
+.right-details h3 {
+    font-size: 26px;
+}
+.my-style ul ul {
+    margin-left: -7% !important;
+    line-height: 26px;
+}
+#ventilated ul, #baffle ul {
+    margin-left: 0px !important;
+}
+
+
+}
+@media only screen and (max-width: 667px) {
+
+
+
+}
+
+@media only screen and (device-width: 768px) {
+.navbar-nav {
+    background: #000080;
+    padding: 30px 0;
+}
+.custome-nav .navbar-nav .nav-link {
+    padding: 10px 20px;
+    color: #FFF;
+}
+.services-part .col-sm-3  {
+    width: 50%;
+    flex: none;
+    max-width: none;
+}
+.articl-st {
+    border: 1px solid #d7d7d7;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+}
+
+@media screen and (max-width: 500px) {
+
+
+}
+
